@@ -578,6 +578,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .timeline-title {
   margin-top: 0;
+  text-decoration: underline;
 }
 
 .date {
@@ -859,7 +860,7 @@ form label {
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
     font-weight: bold;
-    font-size: 65px;
+    font-size: 52px;
   }
 }
 #fh5co-header .display-tc h2,
@@ -873,7 +874,7 @@ form label {
   #fh5co-header .display-tc h2,
   #fh5co-counter .display-tc h2,
   .fh5co-cover .display-tc h2 {
-    font-size: 25px;
+    font-size: 22px;
   }
 }
 #fh5co-header .display-tc .btn,
@@ -943,8 +944,8 @@ form label {
 .simply-countdown > .simply-section {
   /* coutndown blocks */
   display: inline-block;
-  width: 75px;
-  height: 75px;
+  width: 70px;
+  height: 70px;
   background: rgba(241, 78, 149, 0.8);
   margin: 0 4px;
   -webkit-border-radius: 50%;
@@ -970,8 +971,8 @@ form label {
   /* countdown block inner div */
   display: table-cell;
   vertical-align: middle;
-  height: 75px;
-  width: 75px;
+  height: 70px;
+  width: 70px;
 }
 
 .simply-countdown > .simply-section .simply-amount,
@@ -982,7 +983,7 @@ form label {
 }
 
 .simply-countdown > .simply-section .simply-amount {
-  font-size: 25px;
+  font-size: 24px;
   /* amounts */
 }
 
